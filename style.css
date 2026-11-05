@@ -1,0 +1,9 @@
+p.test , h4 , h6 , ol ,ul {
+text-align: right;
+direction: rtl;
+  
+}
+h5{
+
+  direction: rtl;
+}
